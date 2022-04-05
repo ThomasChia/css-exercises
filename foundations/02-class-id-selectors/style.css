@@ -1,0 +1,19 @@
+.red-highlight {
+    background-color: #FF6D78;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#first-id {
+    color: #294cef;
+    font-size: 36px;
+}
+
+#second-id {
+    background-color: #81EF29;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.red-highlight.larger-text {
+    font-size: 24px;
+}
